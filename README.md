@@ -1,11 +1,5 @@
-## My Project
-
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+## AWS Blog Post: Hyperparameter Optimization for Quantum Machine Learning with Amazon Braket
+This repo contains the accompanying code for the blog post 'Hyperparameter Optimization for Quantum Machine Learning with Amazon Braket'. Please refer to the blog post for more details.
 
 ## Security
 
