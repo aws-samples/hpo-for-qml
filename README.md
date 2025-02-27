@@ -1,5 +1,5 @@
 ## AWS Workshop Tutorial: Hyperparameter Optimization for Quantum Machine Learning with Amazon Braket
-This repo contains the accompanying code for the workshop 'Hyperparameter Optimization for Quantum Machine Learning with Amazon Braket'. Please refer to accoroding AWS blog post for more details.
+This branch contains the accompanying code for the workshop 'Hyperparameter Optimization for Quantum Machine Learning with Amazon Braket'. Please refer to accoroding AWS blog post for more details.
 
 ## Security
 
